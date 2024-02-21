@@ -1,0 +1,54 @@
+/* upf_theme.css */
+/* @theme upf_theme */
+
+@import 'default';
+
+:root {
+  --color-background: #fff; /* Keeping the background white for a clean look */
+  --color-foreground: #8B1B30; /* A complementary color for text */
+  --color-highlight: #C8102E; /* UPF's primary color for highlighting */
+  --color-accent: #002855; /* A darker shade for contrast and modern feel */
+}
+
+h1 {
+    background-color: var(--color-background); /* UPF red */
+    color: var(--color-highlight); /* White text */
+    padding: 0.2em; /* Optional: Adds some spacing inside the header */
+    margin: 0; /* Removes default margin */
+    display: inline-block; /* Adjust as needed for your layout */
+    font-size: 1.3em; /* Larger font-size relative to h2 */
+    border-bottom: 1.2px solid var(--color-highlight); /* Red underline */
+}
+
+h2 {
+    background-color: var(--color-background); /* UPF red */
+    color: var(--color-highlight); /* White text */
+    padding: 0em; /* Less padding than h1 for a smaller look */
+    margin: 0; /* Removes default margin */
+    display: inline-block; /* Adjust as needed for your layout */
+    font-size: 1em; /* Smaller font-size relative to h1 */
+    border-bottom: none; /* Red underline */
+ 
+}
+
+section {
+  justify-content: start;
+  background-color: var(--color-background);
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+section::after {
+  font-weight: 700;
+  content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
+  color: var(--color-accent); /* Adding the accent color for pagination */
+}
+
+/* Final slide styles */
+
+
+.final-slide {
+background-color: var(--color-highlight) !important; /* Ensures this background color is applied */
+color: #fff !important; /* Ensures this text color is applied */
+/* ... other properties ... */
+}
