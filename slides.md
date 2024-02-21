@@ -27,10 +27,21 @@ UPF-BSM
 ---
 # Summary
 
-Based on a contractual view of the firm, during this class we will review the literature respond one key question:
-
 **How financial accounting information is used to detect and aliviate governance conflicts?**
 
+We will review different streams of literature on the role of financial accounting information in corporate governance.
+
+Our goal is to provide a comprehensive and unified view on how financial accounting items are used to:
+
+(1) define contractual relationships between corporate stakeholders and the firm. 
+
+(2) monitor the fulfillment of the contractual obligations,
+
+(3) to mitigate the conflicts that arise from the contractual relationships.
+
+
+<!-- The objectives of this review are to provide an analytical primer for thinking about how disclosure processing costs affect equity markets, organize and critique existing empirical work, highlight links in seemingly disparate literatures, and provide guidance for future research.-->
+---
 ![alt text](img/diag_1.png)
 
 ---
@@ -64,10 +75,10 @@ Ideally, economic profits: drivers, type, and distribution across stakeholders.
 
 **Accounting profits act as surrogates for economic profits** as long as less costly alternative sources do not provide similar or better information on rents.
 
-Implicit and explicit Contracts use accounting numbers (Watts & Zimmerman 1986).
+Implicit and explicit contracts rely on accounting information (Watts & Zimmerman, 1986).
 
 ---
-## Definition of  Financial Accounting information
+## Definition of  Financial Accounting Information
 Bushman & Smith (2003) define it as:
 > Financial accounting information is the product of corporate accounting and external reporting systems that measure and routinely disclose audited, quantitative data concerning the financial position and performance of publicly held firms. Audited balance sheets, income statements, and cash-flow statements, along with supporting disclosures, form the foundation of the firm-specific information set available to investors and regulators. 
 
@@ -96,20 +107,24 @@ Scholars have develop or employed variaty of theories to explain specific facets
 <!--The diversity of theories has helped us to develop a rich understanding of the specific features they focus on. However, this diversity also comes with a cost: we lack a foundational theory explaining the big picture, that explaining accounting and disclosing choices for informing/biasing any stakeholders. Besides the theoretical value, there are two practical benefit of investing in a foundational theoretical framework: facilitating the absorption of studies for people in other research lines, and teaching introductory PhD courses on financial accounting research.-->
 
 ---
-The Basic Theoretical Framework 
+## The Basic Theoretical Framework 
 
 ![right:150%](img/diag_0.png)
 
-here the middle box should say: contract (- explicit/implicit -costs and rewards, -financial accounting information ) 
+here the middle box should say: contract (- explicit/implicit -costs and rewards, -financial accounting information ) also "Reporting choice" and "Disclosure choice" should be in the manager and stakeholder box, respectively
 
 
 ---
 # The Manager and the Reporting Choice
-<!--maybe a I should defined it broadly as reporting choice and using that keyword? check literature on the topic -->
-Fields et al. (2001):
-> An accounting choice is any decision whose primary purpose is to influence (either in form or substance) the output of the accounting system in a particular way, including not only financial statements published in accordance with GAAP, but also tax returns and regulatory filings.
 
-These choices are made _within_ the legal framework: IFRS, US GAAP, etc.
+Discussion: you are a manager and have to decide how to report the following transactions. What would you do?
+- A significant sale such that the customer will pay in 6 months and the product will be delivered in 2 months (e.g., a tailor made forniture).
+
+<!--maybe a I should defined it broadly as reporting choice and using that keyword? check literature on the topic -->
+
+Notice that the reporting choice will not only determine the financial statements, but also influence the tax returns and other regulatory filings.
+
+Therefore choices should be made _within_ the legal framework: IFRS, US GAAP, etc.
 
 The types of accounting choices and their classifications can be broadly categorized into several  groups: Accounting Policies, Accounting Estimates, Disclosing Policy, and Real Decisions.
 
@@ -146,29 +161,71 @@ Source: Watts & Zimmerman (1990)
 <!-- maybe work further here on my idea that some sets can be considered "conservatism" and others "fair value accounting" and so on... -->
 
 ---
-Watts and Zimmerman (1990):
-> The set of accounting procedures within which managers have discretion is called the "accepted set." It is voluntarily determined by the contracting parties. Managerial discretion over accounting method choice (i.e., the "accepted set" ) is predicted to vary across firms with the variation in the costs and benefits of restrictions. 
+Not all reporting choices are accepted, and managers have discretion over a subset of choices called "the accepted set" by Watts and Zimmerman (1990).
 
-> These restrictions produce the "best" or "accepted" accounting principles even without mandated accounting standards by government. The restrictions are enforced by external auditors. 
+This accepted set varies considerably across industries, as the nature of their business
+converts some choices into more or less informative signals about the firm's performance to other stakeholders.
 
-> Reacting to the incentive of managers to exercise accounting discretion opportunistically, the accepted set includes "conservative" (e.g., lower of cost or market) and "objective" (e.g., verifiable) accounting procedures .
+External auditors play a key role in monitoring that the firm is accounting the economics events in accordance with the accepted set.
+
+Accounting principles and standards (such as IFRS and US GAAP) provide a  ground of commonly accepted set of reporting choices.
 
 ---
-Once the manager decided a set of accounting choices, the output (financial statements) is available to the stakeholders.
+Some of the most fundamental accounting principles/standards :
+- **Accrual Principle**: Recognizes economic events regardless of when cash transactions occur. This principle ensures that financial statements reflect all the revenues earned and expenses incurred during the period.
+- **Matching Principle**: Directs that expenses be matched with the revenues they help to generate, ensuring that income statements reflect the correct net income for the period.
+- **Consistency principle**:  Stipulates that companies should consistently use the same accounting methods and principles from period to period, allowing for comparability across periods.
+- **Historical Cost Principle**: Assets and liabilities are recorded at their original purchase cost and are not subsequently adjusted for changes in market value, except for certain specific assets for which revaluation is permitted or required
+---
 
-Importantly, other stakeholders face serious challenges for undoing the manager's accounting choices.
+- **Conservatism Principle**: In the face of uncertainty, this principle guides accountants to choose the method that least overstates assets and income, providing a safeguard against potential future losses
+- **Full Disclosure Principle**: Requires that financial statements provide all necessary information to understand a company’s financial condition and performance, ensuring transparency and aiding decision-making
+
+**Important**: The accounting principles are not specifc enough to avoid managerial discretion in terms of accounting choice. 
+
+For example, the matching principle allows for different methods of depreciation. Similarly, the historical cost principle allows for different methods of inventory valuation.
+
+<!-- history of principles: https://www.sechistorical.org/museum/galleries/rca/rca02b-status-gaap.php -->
+---
+Once the manager has decided a set of accounting choices, the economic events ("transactions" ) can be processed and then the output (financial statements) is publicly disclosed.
+
+Stakeholders face serious challenges for undoing the manager's accounting choices.
 - even though reporting regulation may require disclosing accounting choices and their changes, other stakeholders do not have the same information as the manager for re-computing the financial statements assuming alternative choices.
 
 
 ---
-# The Stakeholder and the Cost of using the Financial Accounting Information
+# The Stakeholders and the Cost of Processing the Financial Accounting Information
 
+Learning from disclosures is an active economic choice: trade-off between the cost of processing the information and the benefits of learning from information.
 
 ![Blankespoor et al., 2019](img/process_costs.png)
 
 Source: Blankespoor et al. (2019)
 <!--awareness: Grossman and Stiglitz [1980], Merton [1987] -->
+---
+The presence of processing costs means that disclosures are not public information as traditionally deﬁned, but are instead a form of private information.
 
+Analytical theory has been typically focused on capital markets, and not in stakeholders.
+- classic rational models: Grossman & Stiglitz (1980), Verrecchia (1982).
+- behavioral models: DellaVigna & Pollet (2009); Hirshleifer et al. (2011).
+- rational inattention models: Sims (2003); Veldkamp (2011).
+
+The evidence is overwealming in showhing that even the most sophisticated investors in capital markets struggle to process the information in financial statements. 
+See survey in Blankespoor et al. (2019).
+
+---
+1. Awareness costs are the costs necessary to improve stajeholder's probability of knowing that a particular disclosure exists and the information it contains.
+2. Acquisition costs: the costs of converting the disclosure into a signal that ready to use for analysis: Compustat or Commercial databases fees, obtaining, understanding, an cleaning the data. Detect disclosure quality.
+3. Integration costs: the costs of integrating the information into the decision-making process. It is wahat is called _financial statements analysis_ which require to map the accounting information with the firm's economic dimension of interest: profitability, liquidity, solvency, etc.
+5. Opportunity costs: resources could be allocated into processing other information or other activities.
+   - Budget and capital constraints.
+---
+Not all disclosures are equally costly to process.
+- more complex business models generate disclosures that are more costly to process (Hoitash & Hoitash, 2018)
+  - Coca Cola vs SpaceX
+- similarly, complex organizational structures also increase the cost of processing the disclosure (Cohen & Lou, 2012).
+  - conglomerates vs single business firms.
+- disclosure design choice also matter. Example on two papers with the same RQ.
 ---
 # Additional information channels
 
@@ -178,11 +235,16 @@ Source: Blankespoor et al. (2019)
 - private information.
 - social media.
 
+This information could be a substitute or a complement for financial accounting information.
+
+... Or it could also be costly noise.
+
 ---
 # 2) Stakeholder: Employees
 ## (a) Accounting and Labor Negotiation
 - The fraction of economic rents that are distributed to labor is defined initialy in the respective contract. However, some firms have regular renegotiation: collective agreements or labor union contract negotitation (Liberty & Zimmerman, 1986).
 
+- Managers could make opportunistic income-decreasing reporting choices to limit expectations of labor representatives.
 
 **Accounting information:**
 - Most of the labor regulations request to the employeer to furnish accounting data relevant for the negociation: "bargain in good faith" (Cooper & Essex, 1977).
@@ -191,9 +253,18 @@ Source: Blankespoor et al. (2019)
 
 - The objective is to establish the "ability to pay" of the company (Goggans, 1964).
 
+---
+Labor represetatives vary in their level of sophistication in processing the accounting information.
+
+Notice that even though they are insiders, they may not have the same information set as the manager.
+- they are not able to re-compute the financial statements assuming alternative choices.
+- their individual information set relates to their specific job situation, and not to the firm's overall performance.
+
+Not surprisingly, they usually rely on external sources of information (e.g., peer reporting, industry experts).
 
 ---
-- Liberty & Zimmerman (1986): US unionized companies over the period 1968-1981. We find no evidence of lower than expected earnings during negotiations
+<!-- aqui voy-->
+- Liberty & Zimmerman (1986): They find no evidence of lower than expected earnings during negotiations among US unionized companies over the period 1968-1981.
 
 - Osma et al (2015): US firms that engage in firm-level labor bargaining during the period 1994-2007, we provide evidence consistent with the hypothesis that managers and employees are more likely to sign an agreement when firm profitability and liquidity is low. In a second set of analyses we study whether the coincidence of low corporate income and collective agreement negotiations is driven by accounting choice. The results provide evidence in favor of the hypothesis that managers accelerate the recognition of losses and delay the recognition of gains in years surrounding collective bargaining. However, the evidence suggests this choice is informative rather than opportunistic. We do not find conclusive evidence of accounting accruals manipulation, consistent with the results found by prior research.
 
