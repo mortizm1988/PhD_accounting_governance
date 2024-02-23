@@ -111,7 +111,6 @@ Scholars have develop or employed variaty of theories to explain specific facets
 
 ![right:150%](img/diag_0.png)
 
-here the middle box should say: contract (- formal/informal -costs and rewards, -financial accounting information ) also "Reporting choice" and "Disclosure choice" should be in the manager and stakeholder box, respectively
 
 <!-- see discussion in chap 2 of Armstrong et al. (2010) -->
 ---
@@ -239,49 +238,7 @@ This information could be a substitute or a complement for financial accounting 
 ... Or it could also be costly noise.
 
 ---
-# 2) Stakeholder: Employees
-## (a) Accounting and Labor Negotiation
-The respective initial labor contracts define the fraction of economic rents distributed to labor. However, some firms have regular renegotiation: collective agreements or labor union contract negotiation (Liberty & Zimmerman, 1986).
-
-- Managers are predicted to make opportunistic income-decreasing reporting choices to limit the expectations of labor representatives.
----
-**Accounting information:**
-- In most countries, regulations request the employer to furnish accounting data relevant to the negotiation: "bargain in good faith" (Cooper & Essex, 1977).
-
-- Sensitive sales or production information can be kept secret if it affects the firm's competitive position.
-
-- The objective is establishing the company's "ability to pay" (Goggans, 1964).
-
----
-Notice that labor representatives are considered external stakeholders from a financial reporting perspective; they do not have the same information set as the manager.
-- they are not able to re-compute the financial statements considering alternative accounting choices.
-- their individual information set relates to their specific job position.
-- they also likely lack access or knowledge about their employers’ broader accounting systems to personally investigate the overall financial performance.
-
-Labor representatives vary in their level of sophistication in processing the accounting information.
-
-Not surprisingly, they usually rely on external sources of information (e.g., peer reporting, industry experts).
-
----
-- Liberty & Zimmerman (1986): They find no evidence of lower-than-expected earnings during negotiations among US unionized companies from 1968-1981, relative to similar firms.
-
-- DeAngelo & DeAngelo (1991) argue that accounting earnings manipulation is more likely when the manager needs to negotiate in adverse scenarios. In the 1980s, US steel producers faced increased competition from subsidized imports, the technological obsolescence of aging plants, and a decline in steel demand due to a worldwide recession. Interestingly, the losses reported **before negotiation** were substantiated by **one-time special charges** that reflect managers’ real restructuring decisions but whose timing was discretionary.
-
-- Osma et al. (2015) argue that managers and employees are likelier to sign an agreement **when firm profitability and liquidity are low**. The reason is that any accounting earnings management would eventually become evident to unions, who would refuse to cooperate in the next negotiations.
-
----
-## (b) Accounting and Current Employee Job Search
-Recently, scholars started to study whether rank-and-file employees used financial accounting information to evaluate their job prospects.
-
-deHAAN et al. (2023) evaluate whether current employees are more active in job search after Earnings Announcements (EA).
-- EAs provide information about firms’ financial conditions, which can affect future job security, raises, promotions, and fulfillment of implicit commitments.
-- EAs are more informative when employees face more significant within-firm information frictions and more outside job opportunities.
-
-- Using weekly counts of Glassdoor reviews by current employees as a proxy for new job searchers, they find significant increases in reviews around EAs.
-
----
-
-# 3) Stakeholder: Executives
+# 2) Stakeholder: Executives
 ## (a) Accounting  and  Executive Compensation
 
 Managerial compensation typically consists of base salary and incentive compensation. 
@@ -318,11 +275,8 @@ Several studies have found a negative relationship between accounting performanc
 - Weisbach finds that accounting performance appears to be more important than stock price performance in explaining turnover. 
 - Murphy and Zimmerman find a significant inverse relation between both performance measures and turnover.
 
-
-<!-- TODO: MORE RECENT?-->
-
 ---
-# 4) Stakeholder: Shareholder 
+# 3) Stakeholder: Shareholder 
 Shareholders are the residual claimants of the firm's profit, and they have the right to vote in the general assembly of shareholders.
 
 The general assembly of shareholders has the power to appoint and dismiss top management and to approve the financial reports.
@@ -411,7 +365,49 @@ Additionally, firms breaching covenants may be renegotiating many of their contr
 Nikolaev (2008) examines the relationship between conservative financial reporting and the extent of covenant use in public debt. He finds that firms that provide more conservative reports are more likely to have (and have more) covenants in their debt agreements.
 
 ---
-# 5) Stakeholder: Government
+# 5) Stakeholder: Employees
+## (a) Accounting and Labor Negotiation
+The respective initial labor contracts define the fraction of economic rents distributed to labor. However, some firms have regular renegotiation: collective agreements or labor union contract negotiation (Liberty & Zimmerman, 1986).
+
+- Managers are predicted to make opportunistic income-decreasing reporting choices to limit the expectations of labor representatives.
+---
+**Accounting information:**
+- In most countries, regulations request the employer to furnish accounting data relevant to the negotiation: "bargain in good faith" (Cooper & Essex, 1977).
+
+- Sensitive sales or production information can be kept secret if it affects the firm's competitive position.
+
+- The objective is establishing the company's "ability to pay" (Goggans, 1964).
+
+---
+Notice that labor representatives are considered external stakeholders from a financial reporting perspective; they do not have the same information set as the manager.
+- they are not able to re-compute the financial statements considering alternative accounting choices.
+- their individual information set relates to their specific job position.
+- they also likely lack access or knowledge about their employers’ broader accounting systems to personally investigate the overall financial performance.
+
+Labor representatives vary in their level of sophistication in processing the accounting information.
+
+Not surprisingly, they usually rely on external sources of information (e.g., peer reporting, industry experts).
+
+---
+- Liberty & Zimmerman (1986): They find no evidence of lower-than-expected earnings during negotiations among US unionized companies from 1968-1981, relative to similar firms.
+
+- DeAngelo & DeAngelo (1991) argue that accounting earnings manipulation is more likely when the manager needs to negotiate in adverse scenarios. In the 1980s, US steel producers faced increased competition from subsidized imports, the technological obsolescence of aging plants, and a decline in steel demand due to a worldwide recession. Interestingly, the losses reported **before negotiation** were substantiated by **one-time special charges** that reflect managers’ real restructuring decisions but whose timing was discretionary.
+
+- Osma et al. (2015) argue that managers and employees are likelier to sign an agreement **when firm profitability and liquidity are low**. The reason is that any accounting earnings management would eventually become evident to unions, who would refuse to cooperate in the next negotiations.
+
+---
+## (b) Accounting and Current Employee Job Search
+Recently, scholars started to study whether rank-and-file employees used financial accounting information to evaluate their job prospects.
+
+deHAAN et al. (2023) evaluate whether current employees are more active in job search after Earnings Announcements (EA).
+- EAs provide information about firms’ financial conditions, which can affect future job security, raises, promotions, and fulfillment of implicit commitments.
+- EAs are more informative when employees face more significant within-firm information frictions and more outside job opportunities.
+
+- Using weekly counts of Glassdoor reviews by current employees as a proxy for new job searchers, they find significant increases in reviews around EAs.
+
+
+---
+# 6) Stakeholder: Government
 
 ## (a) Accounting and Taxation
 The state, thanks to its tax claim on earnings, is _de facto_ the largest minority shareholder in almost all corporations. 
@@ -446,7 +442,7 @@ Bozanic et al. (2017) find that the use of public information increased followin
 Fox & Wilson (2023) financial restatements as potentially useful signals to the IRS of poor information quality or management integrity. They find that restatements are associated with a significant increase in the likelihood of an IRS audit.
 
 ---
-# 6) Evidence of Peer reporting as the external governance mechanism
+# 7) Evidence of Peer reporting as the external governance mechanism
 **Labor Negotiations**
 Aobdiaa & Cheng (2018) analyze whether non-unionized firms have an incentive to disclose more information when their unionized rivals are engaged in labor renegotiations; that is, to weaken them. They find that non-unionized firms disclose more information and more good news when renegotiations are ongoing.
 
@@ -460,3 +456,10 @@ Ortiz et al. (2024): peer reporting fosters turnover and boosts careers of overp
 
 **Shareholder rights and activism**
 Ortiz et al. (2023): peer reporting fosters the acquisition of under-performing firms.
+
+---
+# Questions :question:
+Check my website for an updated version of this presentation:
+
+:point_right: [https://www.marceloortizm.com/](https://www.marceloortizm.com)
+
