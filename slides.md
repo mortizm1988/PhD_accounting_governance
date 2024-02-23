@@ -55,7 +55,7 @@ We will not cover:
 # 1) Introduction
 ## Theory of the firm
 
-We start by understanding a corporation  as a nexus of contracts designed to minimize contracting costs (Coase, 1937).
+We start by understanding a corporation as a nexus of contracts designed to minimize contracting costs (Coase, 1937).
 
 Those contracts govern how costs and rewards are allocated among stakeholders (Jensen & Meckling, 1977).
 
@@ -84,9 +84,9 @@ Bushman & Smith (2003) define it as:
 
 ---
 ## Characteristics of Financial Accounting Information
-The characteristics are detailed in conceptual framework of financial reporting issued by standard-setting bodies such as the Financial Accounting Standards Board (FASB) in the United States and the International Accounting Standards Board (IASB). 
+The characteristics are detailed in the conceptual framework of financial reporting issued by standard-setting bodies such as the Financial Accounting Standards Board (FASB) in the United States and the International Accounting Standards Board (IASB). 
  
-The primary qualitative characteristics are: value-relevance, faithful representation, comparability, and verifiability.
+The primary qualitative characteristics are value-relevance, faithful representation, comparability, and verifiability.
 <!--
 ---
 
@@ -111,22 +111,22 @@ Scholars have develop or employed variaty of theories to explain specific facets
 
 ![right:150%](img/diag_0.png)
 
-here the middle box should say: contract (- explicit/implicit -costs and rewards, -financial accounting information ) also "Reporting choice" and "Disclosure choice" should be in the manager and stakeholder box, respectively
+here the middle box should say: contract (- formal/informal -costs and rewards, -financial accounting information ) also "Reporting choice" and "Disclosure choice" should be in the manager and stakeholder box, respectively
 
-
+<!-- see discussion in chap 2 of Armstrong et al. (2010) -->
 ---
 # The Manager and the Reporting Choice
 
-Discussion: you are a manager and have to decide how to report the following transactions. What would you do?
-- A significant sale such that the customer will pay in 6 months and the product will be delivered in 2 months (e.g., a tailor made forniture).
+Discussion: you are a manager and must decide how to report the following transactions. What would you do?
+- A significant sale transaction such that the customer will pay in 6 months and the product will be delivered in 2 months (e.g., tailor-made furniture).
 
 <!--maybe a I should defined it broadly as reporting choice and using that keyword? check literature on the topic -->
 
 Notice that the reporting choice will not only determine the financial statements, but also influence the tax returns and other regulatory filings.
 
-Therefore choices should be made _within_ the legal framework: IFRS, US GAAP, etc.
+Therefore, choices should be made _within_ the legal framework: IFRS, US GAAP, etc.
 
-The types of accounting choices and their classifications can be broadly categorized into several  groups: Accounting Policies, Accounting Estimates, Disclosing Policy, and Real Decisions.
+The types of accounting choices and their classifications can be broadly categorized into several groups: Accounting Policies, Accounting Estimates, Disclosing Policy, and Real Decisions.
 
 ---
 
@@ -137,7 +137,7 @@ The types of accounting choices and their classifications can be broadly categor
     - Depreciation methods (e.g., straight-line, declining balance)
     - Capitalization versus expensing of certain costs
 
-2.  Accounting Estimates: These involve judgment in the preparation of financial statements, where it is difficult to measure the exact amount with certainty.
+2. Accounting Estimates: These involve judgment in preparing financial statements, where it is difficult to measure the exact amount accurately.
 
     - Allowance for doubtful accounts.
     - Useful lives and residual values of depreciable assets.
@@ -150,8 +150,8 @@ The types of accounting choices and their classifications can be broadly categor
     - Level of transparency: (e.g., segment reporting, related party transactions).
     - Timing of disclosing: (e.g., timing of going concern, new standard adoption).
 
-4. Real Decisions: These are made primarily for the purpose of affecting the accounting numbers in this definition.
-    - Increasing production to reduce cost of goods sold by reducing per unit fixed costs.
+4. Real Decisions: These are made primarily to affect the accounting numbers in this definition.
+    - Increasing production to reduce the cost of goods sold by reducing per unit fixed costs.
     - Reducing R&D expenditures to increase earnings.
 ---
 ![right:60%](img/image.png)
@@ -166,9 +166,9 @@ Not all reporting choices are accepted, and managers have discretion over a subs
 This accepted set varies considerably across industries, as the nature of their business
 converts some choices into more or less informative signals about the firm's performance to other stakeholders.
 
-External auditors play a key role in monitoring that the firm is accounting the economics events in accordance with the accepted set.
+External auditors play a key role in monitoring the firm is accounting for economic events by the accepted set.
 
-Accounting principles and standards (such as IFRS and US GAAP) provide a  ground of commonly accepted set of reporting choices.
+Accounting principles and standards (such as IFRS and US GAAP) provide a ground for a commonly accepted set of reporting choices.
 
 ---
 Some of the most fundamental accounting principles/standards :
@@ -181,15 +181,15 @@ Some of the most fundamental accounting principles/standards :
 - **Conservatism Principle**: In the face of uncertainty, this principle guides accountants to choose the method that least overstates assets and income, providing a safeguard against potential future losses
 - **Full Disclosure Principle**: Requires that financial statements provide all necessary information to understand a company’s financial condition and performance, ensuring transparency and aiding decision-making
 
-**Important**: The accounting principles are not specifc enough to avoid managerial discretion in terms of accounting choice. 
+**Important**: The accounting principles are not specific enough to avoid managerial discretion regarding accounting choices. 
 
 For example, the matching principle allows for different methods of depreciation. Similarly, the historical cost principle allows for different methods of inventory valuation.
 
 <!-- history of principles: https://www.sechistorical.org/museum/galleries/rca/rca02b-status-gaap.php -->
 ---
-Once the manager has decided a set of accounting choices, the economic events ("transactions" ) can be processed and then the output (financial statements) is publicly disclosed.
+Once the manager has decided on a set of accounting choices, the economic events ("transactions" ) can be processed and then the output (financial statements) is publicly disclosed.
 
-Stakeholders face serious challenges for undoing the manager's accounting choices.
+Stakeholders face severe challenges in undoing the manager's accounting choices.
 - even though reporting regulation may require disclosing accounting choices and their changes, other stakeholders do not have the same information as the manager for re-computing the financial statements assuming alternative choices.
 
 
@@ -203,21 +203,20 @@ Learning from disclosures is an active economic choice: trade-off between the co
 Source: Blankespoor et al. (2019)
 <!--awareness: Grossman and Stiglitz [1980], Merton [1987] -->
 ---
-The presence of processing costs means that disclosures are not public information as traditionally deﬁned, but are instead a form of private information.
+The presence of processing costs means that disclosures are not public information as traditionally deﬁned but are instead a form of private information.
 
-Analytical theory has been typically focused on capital markets, and not in stakeholders.
+Analytical theory has typically focused on capital markets, not stakeholders.
 - classic rational models: Grossman & Stiglitz (1980), Verrecchia (1982).
 - behavioral models: DellaVigna & Pollet (2009); Hirshleifer et al. (2011).
 - rational inattention models: Sims (2003); Veldkamp (2011).
 
-The evidence is overwealming in showhing that even the most sophisticated investors in capital markets struggle to process the information in financial statements. 
-See survey in Blankespoor et al. (2019).
+The evidence is overwhelming in showing that even the most sophisticated investors in capital markets struggle to process the information in financial statements. See the survey in Blankespoor et al. (2019).
 
 ---
-1. Awareness costs are the costs necessary to improve stajeholder's probability of knowing that a particular disclosure exists and the information it contains.
-2. Acquisition costs: the costs of converting the disclosure into a signal that ready to use for analysis: Compustat or Commercial databases fees, obtaining, understanding, an cleaning the data. Detect disclosure quality.
-3. Integration costs: the costs of integrating the information into the decision-making process. It is wahat is called _financial statements analysis_ which require to map the accounting information with the firm's economic dimension of interest: profitability, liquidity, solvency, etc.
-5. Opportunity costs: resources could be allocated into processing other information or other activities.
+1. Awareness costs are the costs necessary to improve the stakeholder's probability of knowing that a particular disclosure exists and the information it contains.
+2. Acquisition costs: the costs of converting the disclosure into a signal that is ready to use for analysis: Compustat or Commercial databases fees, obtaining, understanding, and cleaning the data. Detect disclosure quality.
+3. Integration costs: the costs of integrating the information into the decision-making process. It is called _financial statements _analysis_, which is required to map the accounting information with the firm's economic dimension of interest: profitability, liquidity, solvency, etc.
+5. Opportunity costs: resources could be allocated to processing other information or other activities.
    - Budget and capital constraints.
 ---
 Not all disclosures are equally costly to process.
@@ -225,7 +224,7 @@ Not all disclosures are equally costly to process.
   - Coca Cola vs SpaceX
 - similarly, complex organizational structures also increase the cost of processing the disclosure (Cohen & Lou, 2012).
   - conglomerates vs single business firms.
-- disclosure design choice also matter. Example on two papers with the same RQ.
+- disclosure design choice also matters. Example on two papers with the same RQ.
 ---
 # Additional information channels
 
@@ -242,44 +241,46 @@ This information could be a substitute or a complement for financial accounting 
 ---
 # 2) Stakeholder: Employees
 ## (a) Accounting and Labor Negotiation
-- The fraction of economic rents that are distributed to labor is defined initialy in the respective contract. However, some firms have regular renegotiation: collective agreements or labor union contract negotitation (Liberty & Zimmerman, 1986).
+The respective initial labor contracts define the fraction of economic rents distributed to labor. However, some firms have regular renegotiation: collective agreements or labor union contract negotiation (Liberty & Zimmerman, 1986).
 
-- Managers could make opportunistic income-decreasing reporting choices to limit expectations of labor representatives.
-
+- Managers are predicted to make opportunistic income-decreasing reporting choices to limit the expectations of labor representatives.
+---
 **Accounting information:**
-- Most of the labor regulations request to the employeer to furnish accounting data relevant for the negociation: "bargain in good faith" (Cooper & Essex, 1977).
+- In most countries, regulations request the employer to furnish accounting data relevant to the negotiation: "bargain in good faith" (Cooper & Essex, 1977).
 
-- Sensitive sales or production information is allowed to dont be shared if affect the competitive position of the firm.
+- Sensitive sales or production information can be kept secret if it affects the firm's competitive position.
 
-- The objective is to establish the "ability to pay" of the company (Goggans, 1964).
+- The objective is establishing the company's "ability to pay" (Goggans, 1964).
 
 ---
-Labor represetatives vary in their level of sophistication in processing the accounting information.
+Notice that labor representatives are considered external stakeholders from a financial reporting perspective; they do not have the same information set as the manager.
+- they are not able to re-compute the financial statements considering alternative accounting choices.
+- their individual information set relates to their specific job position.
+- they also likely lack access or knowledge about their employers’ broader accounting systems to personally investigate the overall financial performance.
 
-Notice that even though they are insiders, they may not have the same information set as the manager.
-- they are not able to re-compute the financial statements assuming alternative choices.
-- their individual information set relates to their specific job situation, and not to the firm's overall performance.
+Labor representatives vary in their level of sophistication in processing the accounting information.
 
 Not surprisingly, they usually rely on external sources of information (e.g., peer reporting, industry experts).
 
 ---
-<!-- aqui voy-->
-- Liberty & Zimmerman (1986): They find no evidence of lower than expected earnings during negotiations among US unionized companies over the period 1968-1981.
+- Liberty & Zimmerman (1986): They find no evidence of lower-than-expected earnings during negotiations among US unionized companies from 1968-1981, relative to similar firms.
 
-- Osma et al (2015): US firms that engage in firm-level labor bargaining during the period 1994-2007, we provide evidence consistent with the hypothesis that managers and employees are more likely to sign an agreement when firm profitability and liquidity is low. In a second set of analyses we study whether the coincidence of low corporate income and collective agreement negotiations is driven by accounting choice. The results provide evidence in favor of the hypothesis that managers accelerate the recognition of losses and delay the recognition of gains in years surrounding collective bargaining. However, the evidence suggests this choice is informative rather than opportunistic. We do not find conclusive evidence of accounting accruals manipulation, consistent with the results found by prior research.
+- DeAngelo & DeAngelo (1991) argue that accounting earnings manipulation is more likely when the manager needs to negotiate in adverse scenarios. In the 1980s, US steel producers faced increased competition from subsidized imports, the technological obsolescence of aging plants, and a decline in steel demand due to a worldwide recession. Interestingly, the losses reported **before negotiation** were substantiated by **one-time special charges** that reflect managers’ real restructuring decisions but whose timing was discretionary.
 
----
-## (b) Accounting and Employee Job Search
-- rank-and-file employees (deHAAN et al., 2023)
-- EAs provide information about firms’ financial conditions, which can affect future job security, raises, promotions, fulfillment of implicit commitments, and resume value.
-
-- Also, even though employees can directly observe some aspects of firm performance, their information is likely incomplete, lacks the credibility of public reports,
-
-- even if employees do care about the average firm’s financial condition, they may have little to learn from public EAs if they can sufficiently observe firm operations as insiders. For example, studies find that rank-and-file employees have private information about accounting performance that is revealed in later EAs (Hales, Moon Jr, and Swenson [2018], Huang, Li, and Markov [2020], Li, Wong, and Zhou [2019]).
----
-- We use weekly counts of Glassdoor reviews by current employees as a proxy for new job searchers, and use abnormal within-quarter changes in review counts to identify changes in search around EAs. Our sample includes reviews from current employees of public companies from June 2012 through August 2016
+- Osma et al. (2015) argue that managers and employees are likelier to sign an agreement **when firm profitability and liquidity are low**. The reason is that any accounting earnings management would eventually become evident to unions, who would refuse to cooperate in the next negotiations.
 
 ---
+## (b) Accounting and Current Employee Job Search
+Recently, scholars started to study whether rank-and-file employees used financial accounting information to evaluate their job prospects.
+
+deHAAN et al. (2023) evaluate whether current employees are more active in job search after Earnings Announcements (EA).
+- EAs provide information about firms’ financial conditions, which can affect future job security, raises, promotions, and fulfillment of implicit commitments.
+- EAs are more informative when employees face more significant within-firm information frictions and more outside job opportunities.
+
+- Using weekly counts of Glassdoor reviews by current employees as a proxy for new job searchers, they find significant increases in reviews around EAs.
+
+---
+
 # 3) Stakeholder: Executives
 ## (a) Accounting  and  Executive Compensation
 
@@ -293,26 +294,26 @@ Accounting measures, especially measures of profitability, are extensively used 
 
 The compensation contracts allow managerial accounting discretion. Why?
 - More informative signals about firm performance (Dye and Verrecchia (1995)).
-- The discretion can increase share value, by for example, reducing the probability of bond covenant violations.
+- The discretion can increase share value by for example, reducing the probability of bond covenant violations.
 
 ---
-- Healy (1985), Guidry et al.(1999): upper and lower band. Managers choose current discretionary accruals to maximize both this period’s bonus and the expected value of next period’s bonus.
-- Elliott &  Shaw (1988); Strong & Meyer (1987): 'big bath’ behavior. When earnings are already below expectations, some managers allegedly write-off (perhaps prematurely) as many costs as possible in that period with the intention of claiming they are ‘clearing the decks’ to facilitate improved future performance.
+- Healy (1985), Guidry et al.(1999): upper and lower band. Managers choose current discretionary accruals to maximize both this period’s bonus and the expected value of the next period’s bonus.
+- Elliott &  Shaw (1988); Strong & Meyer (1987): 'big bath’ behavior. When earnings are already below expectations, some managers allegedly write off (perhaps prematurely) as many costs as possible in that period to claim they are ‘clearing the decks’ to facilitate improved future performance.
 
 ---
 - Bushman, Engel, Milliron, and Smith (1998) document that over the 1971-95 period, firms have substituted away from accounting earnings toward equity-based plans.
 
-That this means that accounting information has become less important for the governance of firms?
-1. Reliabale accounting information is a precondition for a well-funcioning stock market and thus, the use of stock-based compensation.
-2. Stock price is not a sufficient statistic for managerial performance (maybe, just for firm value, Grossman & Stiglitz 1980).
+Does this mean that accounting information has become less important for the governance of firms?
+1. Reliable accounting information is a precondition for a well-functioning stock market and, thus, stock-based compensation.
+2. Stock price is not a sufficient statistic for managerial performance (maybe just for firm value, Grossman & Stiglitz 1980).
     - We observe analysts pouring over the details of financial statements, such as margin analyses, expense ratios, and geographic and product line segment data.
-3. Stock proce is by definition forward-looking, based in market expectations and risk, therefore, very limited in its ability to evaluate managers' past performance.
+3. Stock price is, by definition, forward-looking, based on market expectations and risk, and therefore, very limited in its ability to evaluate managers' past performance.
 
 ---
-## (b) Accounting  and Executive turnover
+## (b) Accounting  and Executive Turnover
 Compensation is not the only incentive for managers: threat of dismissal.
 
-Several studies have found a negative relation between accounting performance and CEO turnover  (Weisbach (1988); Murphy & Zimmerman (1993), Lehn & Makhija (1997))
+Several studies have found a negative relationship between accounting performance and CEO turnover  (Weisbach (1988); Murphy & Zimmerman (1993), Lehn & Makhija (1997))
 
 - Weisbach finds that accounting performance appears to be more important than stock price performance in explaining turnover. 
 - Murphy and Zimmerman find a significant inverse relation between both performance measures and turnover.
@@ -322,9 +323,10 @@ Several studies have found a negative relation between accounting performance an
 
 ---
 # 4) Stakeholder: Shareholder 
-- Shareholders are the residual claimants of the firm, and they have the right to vote in the general assembly of shareholders.
-- The general assembly of shareholders has the power to appoint and dismiss top management and to approve the financial reports.
-- But if all shareholders are dispersed and diversified, they may not have the incentives to monitor the firm, even if the information is perfect and available at no cost.
+Shareholders are the residual claimants of the firm's profit, and they have the right to vote in the general assembly of shareholders.
+
+The general assembly of shareholders has the power to appoint and dismiss top management and to approve the financial reports.
+- But, if all shareholders are dispersed and diversified, they may not have the incentives to monitor the firm, even if the information is perfect and available at no cost.
 - Admati, Pfleiderer, & Zechner (1994)
     - Ownership structure affects the payoffs of firms since it affects optimal monitoring efforts.
 
@@ -339,64 +341,122 @@ Mechannisms:
 ---
 
 **(a) Accounting and Proxy contests:**
-- DeAngelo’s (1988) study of the role of accounting information in proxy fights. She documents a heightened importance of accounting information during proxy fights by providing evidence of the prominent use of accounting numbers. She presents evidence that dissident stockholders typically cite poor earnings performance as evidence of incumbent managers’ inefficiency (and rarely cite stock price performance), and that incumbent managers use their accounting discretion to portray a more favorable impression of their performance to voting shareholders. DeAngelo suggests that accounting information may better reflect incumbent managerial performance during proxy fights because stock price anticipates potential benefits from removing underperforming incumbent managers.
-<!-- TODO: MORE RECENT?-->
-
+- DeAngelo’s (1988) study of the role of accounting information in proxy fights. She documents the heightened importance of accounting information during proxy fights by providing evidence of the prominent use of accounting numbers. 
+- She presents evidence that dissident stockholders typically cite poor earnings performance as evidence of incumbent managers’ inefficiency (and rarely cite stock price performance) and that incumbent managers use their accounting discretion to portray a more favorable impression of their performance to voting shareholders. 
+- DeAngelo suggests that accounting information may better reflect incumbent managerial performance during proxy fights because stock price anticipates potential benefits from removing underperforming incumbent managers.
+<!--TODO nothing about earnings management?-->
 ---
 **(b) Accounting and Litigation:**
-- Francis, Philbrick, and Schipper's 1994 study, "Shareholder Litigation and Corporate Disclosures," examines the relationship between shareholder lawsuits and the quality of corporate financial disclosures. They find that firms subject to litigation tend to improve the transparency and quality of their financial reporting.
 
-- Douglas J. Skinner's 1994 paper, "Why Firms Voluntarily Disclose Bad News," explores the strategic disclosure of financial information in the context of shareholder litigation. Skinner suggests that firms may voluntarily disclose adverse information to manage litigation risk, highlighting an interaction between corporate disclosure practices and governance through litigation.
-<!-- TODO: WHAT INFORMATION IS USED IN LITIGATIONS? WHAT THE LITIGATION ARE ABOUT-->
+Typical accounting-related motives for suing: dissemination of optimistic information or omission of relevant adverse information.
 
+Loss causation is an essential element in securities litigation. According to the courts, loss causation is established in three parts:
+1. identifying a ‘corrective disclosure’ (a release of information that reveals to the market the pertinent truth that was previously concealed or obscured by the company’s fraud)
+2. showing that the stock price dropped soon after the corrective disclosure
+3. eliminating other possible explanations for this price drop,
+
+---
+**Debate on disclosing early warnings**
+Skinner (1994) argues that because shareholders tend to sue only over EAs with large negative returns, managers have an incentive to disclose bad earnings early to reduce both the probability of being sued and the magnitude of estimated damages.
+- This would imply that at-risk firms would be more likely to disclose bad news voluntarily than other firms.
+
+Howerver, Francis et al. (1994) find that litigation is based on earning forecast or a preemptive disclosure of bad news, but not on the actual EA.
+   - furthermore, they find that early disclosure increases the probability of a lawsuit 
+
+
+---
+Field et al. (2005) find no evidence that disclosure triggers litigation and argue that previous inconsistent findings are driven by the endogeneity problem in the relation between disclosure and litigation among firms with high legal exposure.
+
+**Debate on reporting structure**
+Files et al. (2009) show that managers providing minimal disclosure when announcing restatements are less likely to be suited than those providing more prominent disclosure.
+
+Roger & Buskirk (2009) find no evidence that the firms respond to the litigation by increasing their disclosures to investors. In fact, they find that firms reduce the level of information provided post-litigation,  suggesting that the litigation process encourages firms to decrease the provision of disclosures for which they may later be held accountable, 
+
+---
+Bliss et al. (2018) use a 2005 U.S. Supreme Court decision that increases the requirements for class-action loss causation. They find that positive bundling (mixing good and bad news in the same disclosure) results in less litigation.
+<!-- “positive bundling,” a disclosure practice that adds good news to bad news. The release of contemporaneous good news can positively influence perceptions that would have been negative in isolation. Positive bundling makes securities litigation less attractive by reducing the magnitude of, or even eliminating, the stock price decline associated with a restatement.-->
+
+Manchiraju et al. (2021) use staggered adoption of the Universal Demand Laws (UD Laws) to examine the effect of an exogenous reduction in shareholders’ ability to litigate the extent of accounting conservatism. On average, we find an increase in reporting conservatism post-UD. The increased conservatism is concentrated in firms contemplating equity issuance, with a high proportion of monitoring investors and high corporate governance quality.
+
+<!-- UD Laws make it difficult for shareholders to file derivative lawsuits, a type of lawsuit where shareholders sue officers (or directors) for breach of fiduciary duty on behalf of the corporation. The UD Laws are particularly appropriate for our study because, unlike class action lawsuits that are primarily concerned with redressing shareholder losses, one of the principal purposes of derivative lawsuits is corporate governance reform. Also, the UD Laws significantly inhibited derivative litigation activity, with the number of derivative lawsuits filed in adopting states declining by more than a third (Appel 2019). For these reasons, the adoption of UD Laws is a powerful setting to study how reporting conservatism responds to an exogenous shock to the litigation environment.-->
+<!-- to read_ marinovik and varas-->
 ---
 
 # 4) Stakeholder: Creditors
-
-Creditor rights in corporate governance encompass the legal and contractual protections and mechanisms that safeguard the interests of lenders and bondholders. These rights are fundamental to the governance framework of corporations, as they directly influence corporate financing decisions, risk management practices, and the overall alignment between the company's actions and its obligations to creditors.
-
-The protections for creditors are typically enshrined in law (such as bankruptcy laws) and detailed within the contractual agreements of debt instruments (like covenants in loan agreements).
-
----
 As in the previous case, information frictions and control rights give rise to agency problems between shareholders (manager) and creditors. (La Porta et al., 1997).
  - dividends payments
  - debt overhang
  - asset substitution
  - refinancing and restructuring
  - bankruptcy and liquidation preferences
+
+---
+Financial reporting systems can play at least two important roles in reducing agency costs:
+- reduce information asymmetries with existing and potential creditors (Watts, 2003).
+- inputs (or parameters) in the formal contract between the firm and its lenders (Smith & Warner, 1979)
+  - accounting-based covenants.
+  - performance-pricing provisions that adjust interest rates based on accounting measures.
 --- 
 ## (a) Accounting and Covenants
 <!-- add some stats of debt-covenants types and metrics used -->
 
 Managers may select or change accounting methods to avoid debt covenant violations.
 
-This has been tested among firms that are close or have reached to debt covenants (Healy & Palepu, 1990; Sweeney, 1994; DeAngelo et al. 1994).
+This has been tested among firms that are close or have reached debt covenants (Healy & Palepu, 1990; Sweeney, 1994; DeAngelo et al. 1994).
+- arguably, the same happens with the use of accounting-based performance pricing provisions, but there is no empirical evidence of this.
 
-Findings suggest that firms make accounting decisions in response to potential covenant violations only when there is no lower cost solution.
-
-Additionally, firms breaching coventants may be renegotiating many of their contracts simultaneusly, so it is difficult to associate any evidence of accounting choice with any one contractual concern.
+Additionally, firms breaching covenants may be renegotiating many of their contracts simultaneously, so it is difficult to associate any evidence of accounting choice with any one contractual concern.
 
 ---
+Nikolaev (2008) examines the relationship between conservative financial reporting and the extent of covenant use in public debt. He finds that firms that provide more conservative reports are more likely to have (and have more) covenants in their debt agreements.
 
-<!-- TODO: ADD PAPERS OF THE LBS STUFF AND CORREA>
-<-- (e.g., Smith and Warner, 1979)-->
-
+---
 # 5) Stakeholder: Government
 
 ## (a) Accounting and Taxation
+The state, thanks to its tax claim on earnings, is _de facto_ the largest minority shareholder in almost all corporations. 
 
-paper on JAR sobre IRS monitoring and disclosing
+Most transactions aimed at diverting corporate value toward controlling shareholders also reduce corporate tax liabilities.
 
-## (b) Accounting and Other Regulations
+A higher tax rate increases the return to expropriation by insiders and worsens governance outcomes. 
+
+By contrast, increased tax enforcement reduces the amount of private benefits these controlling shareholders can enjoy.
+
 ---
-# 6) Evidence of Peer reporting as external governance mechanism
-# Labor Negotiations
-ver el paper en JAE on reporting when your peers are unionized
 
-# CEO compensation:
+**Taxable income and accounting income**
+
+Book-tax differences are driven by a wide variety of factors.
+
+the two systems have very different objectives and these different objectives lead to different rules.
+
+a. useful information for decision-makers
+
+b. politically drive: raise revenues, discourage certain activities, encourage others, and redistribute wealth. Location of earnings matters. 
+
+--- 
+The use of public financial reports provides additional data to tax authorities that can be used in tax enforcement to complement the agency’s private information.
+
+**Is it true?**
+
+Recent research analyzes this by analyzing the downloads of firms’ financial reports from EDGAR and allows us to observe the timing, type, frequency, and breadth of the IRS’s retrieval of these reports.
+
+Bozanic et al. (2017) find that the use of public information increased following the implementation of FIN 48, which required firms to disclose tax reserve information.
+
+Fox & Wilson (2023) financial restatements as potentially useful signals to the IRS of poor information quality or management integrity. They find that restatements are associated with a significant increase in the likelihood of an IRS audit.
+
+---
+# 6) Evidence of Peer reporting as the external governance mechanism
+**Labor Negotiations**
+Aobdiaa & Cheng (2018) analyze whether non-unionized firms have an incentive to disclose more information when their unionized rivals are engaged in labor renegotiations; that is, to weaken them. They find that non-unionized firms disclose more information and more good news when renegotiations are ongoing.
+
+**CEO compensation**
+
 DeFond and Park (1999) and Parrino (1997), examining CEO turnover probabilities, posit that in more competitive industries, peer group comparisons are more readily available, creating opportunities for more precise performance comparisons.
 
-Ortiz et al (2021).
+Ortiz et al. (2024): peer reporting fosters turnover and boosts careers of overperforming CEOs.
 
-# Shareholder rights and activism
-- Ortiz et al (2023): peer reporting foster the acquistion of low-performing firms.
+---
+
+**Shareholder rights and activism**
+Ortiz et al. (2023): peer reporting fosters the acquisition of under-performing firms.
