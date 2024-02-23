@@ -1,4 +1,4 @@
-# How financial accounting information is used to detect and aliviate governance conflicts?
+# How is financial accounting information used to detect and mitigate governance conflicts?
 
 We will review different streams of literature on the role of financial accounting information in corporate governance.
 
@@ -12,11 +12,11 @@ Our goal is to provide a comprehensive and unified view of how financial account
 
 # Course structure
 
-Chapter 1 starts by explaining accounting and disclosing choice and disclosure process costs.
+Chapter 1 starts by explaining formal and informal contracts, followed by accounting choice and disclosure process costs.
 
 ![alt text](img/diag_0.png) 
 
-Then, from Chapter 2 to Chapter 6, we will review the literature on how financial accounting information influences the governance conflicts with several stakeholders.
+Then, from Chapter 2 to Chapter 6, we will review the literature on how financial accounting information influences governance conflicts with several stakeholders.
 
 ![alt text](img/diag_1.png)
 
