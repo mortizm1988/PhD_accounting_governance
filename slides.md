@@ -27,7 +27,7 @@ UPF-BSM
 ---
 # Summary
 
-**How financial accounting information is used to detect and aliviate governance conflicts?**
+**How is financial accounting information used to detect and aliviate governance conflicts?**
 
 We will review different streams of literature on the role of financial accounting information in corporate governance.
 
@@ -36,8 +36,6 @@ Our goal is to provide a comprehensive and unified view on how financial account
 (1) define contractual relationships between corporate stakeholders and the firm. 
 
 (2) monitor the fulfillment of the contractual obligations.
-
-
 
 
 <!-- The objectives of this review are to provide an analytical primer for thinking about how disclosure processing costs affect equity markets, organize and critique existing empirical work, highlight links in seemingly disparate literatures, and provide guidance for future research.-->
@@ -49,6 +47,8 @@ We will not cover:
 - financial accounting & capital markets.
 - financial accounting regulation.
 - managerial accounting. 
+
+References available in this Zotero Public Group: [Corporate Governance and Accounting](https://www.zotero.org/groups/5367141/accounting_governance)
 
 ---
 
@@ -119,9 +119,9 @@ Accounting choices can be broadly categorized into several groups: Accounting Po
 
 ---
 
-1.  Accounting Policies: These are the specific principles, bases, conventions, rules, and practices applied by an entity in preparing and presenting financial statements. 
+1.  Accounting Policies: These are the specific rules applied by an entity in preparing and presenting financial statements. 
 
-    - Revenue recognition methods (e.g., point of sale, percentage of completion)
+    - Revenue recognition methods (e.g., accrual/cash basis, percentage of completion)
     - Inventory valuation methods (e.g., FIFO, LIFO, weighted average)
     - Depreciation methods (e.g., straight-line, declining balance)
     - Capitalization versus expensing of certain costs
@@ -140,9 +140,10 @@ Accounting choices can be broadly categorized into several groups: Accounting Po
     - Timing of disclosing: (e.g., timing of going concern, new standard adoption).
 
 4. Real Decisions: These are made primarily for reporting purposes, but they also have real economic consequences (beating earnings forecasts or avoiding debt covenant violations).
+    - Postpone Q4 investments to increase current year's earnings.
+    - Anticipating marketing campaign to boost next year's earnings.
     - Increasing production to reduce the cost of goods sold by reducing per unit fixed costs.
-    - Reducing R&D expenditures to increase earnings.
-    - Postpone Q4 investments to increase current earnings.
+
 ---
 ![right:60%](img/image.png)
 
@@ -190,7 +191,8 @@ Stakeholders face severe challenges in undoing the manager's accounting choices.
 ---
 # The Stakeholders and the Cost of Processing the Financial Accounting Information
 
-Learning from disclosures is an active economic choice: trade-off between the cost of processing the information and the benefits of learning from information.
+Learning from disclosures is an active economic choice:
+- trade-off between the cost (benefit) of processing (learning from) the information.
 
 ![Blankespoor et al., 2019](img/process_costs.png)
 
@@ -233,9 +235,9 @@ The evidence is overwhelming in showing that even the most sophisticated investo
 
 ---
 #### Suggested recent studies
-- Beyer, A., Guttman, I., and Marinovic, I. (2019). Earnings management and earnings quality: Theory and Evidence. __The Accounting Review__, 94(4), 77–101. https://doi.org/10.2308/accr-52282
+- Beyer, Guttman, & Marinovic, (2019). Earnings management and earnings quality: Theory and Evidence. __The Accounting Review__, 94(4), 77–101. https://doi.org/10.2308/accr-52282
 
-- Terry, S., Whited, T. M., and Zakolyukina, A. A. (2023). Information versus Investment. __The Review of Financial Studies__ (Forthcoming). https://doi.org/10.2139/ssrn.3073956
+- Terry, Whited, & Zakolyukina, A. A. (2023). Information versus Investment. __The Review of Financial Studies__ (Forthcoming). https://doi.org/10.2139/ssrn.3073956
 
 
 
@@ -244,8 +246,8 @@ The evidence is overwhelming in showing that even the most sophisticated investo
 
 Some stakeholders may be more aware of other sources of information that are less costly to process than the financial disclosures.
 
- - financial analysts 
- - business press
+ - financial analysts's reports
+ - business press articles
 
 #### Research Opportunities: 
 - peer reporting
@@ -255,9 +257,9 @@ Some stakeholders may be more aware of other sources of information that are les
 
 ---
 #### Suggested recent studies
-- Huang, Li, Markov (2020). What Do Employees Know? Evidence from a Social Media Platform. __The Accounting Review__ , 95 (2): 199–226. https://doi.org/10.2308/accr-52519
-- Dube, S. and Zhu, C. (2021), The Disciplinary Effect of Social Media: Evidence from Firms' Responses to Glassdoor Reviews. __Journal of Accounting Research__, 59: 1783-1825. https://doi.org/10.1111/1475-679X.12393
--  Ortiz, Peter, Urzúa, Volpin (2023). Mandatory Financial Disclosure and M&A Activity, __The Review of Financial Studies__, 36(12):4788–4823, https://doi.org/10.1093/rfs/hhad052
+- Huang, Li, & Markov (2020). What Do Employees Know? Evidence from a Social Media Platform. __The Accounting Review__ , 95 (2): 199–226. https://doi.org/10.2308/accr-52519
+- Dube, S. & Zhu, C. (2021), The Disciplinary Effect of Social Media: Evidence from Firms' Responses to Glassdoor Reviews. __Journal of Accounting Research__, 59: 1783-1825. https://doi.org/10.1111/1475-679X.12393
+-  Ortiz, Peter, Urzúa, & Volpin (2023). Mandatory Financial Disclosure and M&A Activity, __The Review of Financial Studies__, 36(12):4788–4823, https://doi.org/10.1093/rfs/hhad052
 
 ---
 # 2) Stakeholder: Executives
@@ -271,7 +273,7 @@ Accounting measures, especially measures of profitability, are extensively used 
 - similar evidence, but far less extensive, about the use of accounting measures in divisional managers' compensations (Bushman et al. 1995, Keating 1997).
 ---
 
-Why compensation contracts allow give room for accounting discretion? 
+Why compensation contracts give room for accounting discretion? 
 - More informative signals about firm performance (Dye & Verrecchia (1995)).
 - The discretion can increase share value by, for example, reducing the probability of bond covenant violations.
 
@@ -282,9 +284,9 @@ Elliott &  Shaw (1988); Strong & Meyer (1987): 'big bath’ behavior. When earni
 
 ---
 
-Bushman, Engel, Milliron, and Smith (1998) document that over the 1971-95 period, firms have substituted away from accounting earnings toward equity-based plans.
+Bushman, Engel, Milliron, and Smith (1998) document that since the mid 70s firms have substituted away from accounting earnings ratio toward equity-based plans.
 
-Does this mean that accounting information has become less important for the governance of firms?
+Does this mean that accounting information has become less important for CEOs' compensation?
 1. Reliable accounting information is a precondition for a well-functioning stock market and, thus, stock-based compensation.
 2. Stock price is not a sufficient statistic for managerial performance (maybe just for firm value, Grossman & Stiglitz 1980).
     - We observe analysts pouring over the details of financial statements, such as margin analyses, expense ratios, and geographic and product line segment data.
@@ -301,12 +303,12 @@ Several studies have found a negative relationship between accounting performanc
   
 ---
 #### Research Opportunities: 
-- luck vs skill based on accounting information
-- executive labor market
-- disaggregation of accounting/reporting choices: Board, CEO, CFO, etc.
+- how to disentangle luck vs skill based on accounting information.
+- financial reporting and executive labor market
+- Roles behind accounting/reporting choices: Board, CEO, CFO, etc.
 #### Suggested recent studies:
 - Rhodes & Russomanno (2021). Executive Accountants and the Reliability of Financial Reporting. __Management Science__, 67:7, 4475-4504 https://doi.org/10.1287/mnsc.2020.3697
--  Ma, Pan, Stubben (2020) The Effect of Local Tournament Incentives on Firms' Performance, Risk-Taking Decisions, and Financial Reporting Decisions. __The Accounting Review__; 95 (2): 283–309. https://doi.org/10.2308/accr-52506
+-  Ma, Pan, & Stubben (2020) The Effect of Local Tournament Incentives on Firms' Performance, Risk-Taking Decisions, and Financial Reporting Decisions. __The Accounting Review__; 95 (2): 283–309. https://doi.org/10.2308/accr-52506
 
 ---
 # 3) Stakeholder: Shareholder 
@@ -335,7 +337,7 @@ Mechannisms:
 
 Typical accounting-related motives for suing: dissemination of optimistic information or omission of relevant adverse information.
 
-Loss causation is an essential element in securities litigation. According to law, loss causation is established in three parts:
+Loss causation is an essential element in securities litigation. According to the law, loss causation is established in three parts:
 1. identifying a ‘corrective disclosure’ (a release of information that reveals to the market the pertinent truth that was previously concealed or obscured by the company’s fraud).
 2. showing that the stock price dropped soon after the corrective disclosure.
 3. eliminating other possible explanations for this price drop.
@@ -357,7 +359,7 @@ Field et al. (2005) find no evidence that disclosure triggers litigation and arg
 
 Files et al. (2009) show that managers providing minimal disclosure when announcing restatements are less likely to be suited than those providing more prominent disclosure.
 
-Roger & Buskirk (2009) find no evidence that the firms respond to the litigation by increasing their disclosures to investors. In fact, they find that firms reduce the level of information provided post-litigation,  suggesting that the litigation process encourages firms to decrease the provision of disclosures for which they may later be held accountable, 
+Roger & Buskirk (2009) find no evidence that the firms respond to the litigation by increasing their disclosures to investors. In fact, they find that firms reduce the level of information provided post-litigation,  suggesting that the litigation process encourages firms to decrease the provision of disclosures for which they may later be held accountable.
 
 ---
 #### Research Opportunities:
@@ -367,7 +369,7 @@ Roger & Buskirk (2009) find no evidence that the firms respond to the litigation
 #### Suggested recent studies:
 - Bliss, Partnoy, & Furchtgott (2018). Information bundling and securities litigation. __Journal of Accounting and Economics__, 65(1), 61–84. https://doi.org/10.1016/j.jacceco.2017.11.013
 
-- Donelson, Flam, Yust (2022). Spillover Effects in Disclosure-Related Securities Litigation. __The Accounting Review__; 97 (5): 275–299. https://doi.org/10.2308/TAR-2020-0386
+- Donelson, Flam, & Yust (2022). Spillover Effects in Disclosure-Related Securities Litigation. __The Accounting Review__; 97 (5): 275–299. https://doi.org/10.2308/TAR-2020-0386
   
 <!--
  Bliss et al. (2018) use a 2005 U.S. Supreme Court decision that increases the requirements for class-action loss causation. They find that positive bundling (mixing good and bad news in the same disclosure) results in less litigation.
@@ -381,37 +383,59 @@ Manchiraju et al. (2021) use staggered adoption of the Universal Demand Laws (UD
 ---
 
 # 4) Stakeholder: Creditors
-As in the previous case, information frictions and control rights give rise to agency problems between shareholders (manager) and creditors. (La Porta et al., 1997).
+Manager(shareholders)-Creditors conflicts:.
  - dividends payments
  - debt overhang
  - asset substitution
  - refinancing and restructuring
  - bankruptcy and liquidation preferences
 
+Type of creditors and information frictions
+  - lower: bank 
+  - middle: bondholders (most of research on this group)
+  - high: trade creditors
+
 ---
 Financial reporting systems can play at least two important roles in reducing agency costs:
-- reduce information asymmetries with existing and potential creditors (Watts, 2003).
-- inputs (or parameters) in the formal contract between the firm and its lenders (Smith & Warner, 1979)
+- enabling monitoring: existing and potential creditors (Watts, 2003).
+- inputs (or parameters) in the formal contract between the firm and its lenders (Smith & Warner, 1979):
   - accounting-based covenants.
   - performance-pricing provisions that adjust interest rates based on accounting measures.
 --- 
-## (a) Accounting and Covenants
+## (a) Public debt: Accounting and Covenants
 <!-- add some stats of debt-covenants types and metrics used -->
 
-Managers may select or change accounting methods to avoid debt covenant violations.
+Managers may select or change an specific accounting method to avoid debt covenant violations.
 
 This has been tested among firms that are close or have reached debt covenants (Healy & Palepu, 1990; Sweeney, 1994; DeAngelo et al. 1994).
 - arguably, the same happens with the use of accounting-based performance pricing provisions, but there is no empirical evidence of this.
 
-Additionally, firms breaching covenants may be renegotiating many of their contracts simultaneously, so it is difficult to associate any evidence of accounting choice with any one contractual concern.
+Big empirical concern: firms breaching covenants may be renegotiating many of their contracts simultaneously, so it is difficult to associate any evidence of accounting choice to an specific contractual concern.
 
 ---
-Nikolaev (2008) examines the relationship between conservative financial reporting and the extent of covenant use in public debt. He finds that firms that provide more conservative reports are more likely to have (and have more) covenants in their debt agreements.
+Recent approaches look at **set of accounting choices**, such as conservative accounting:
+
+- Unlike banks, public bondholder lack timely inside information and have weaker incentives to monitor for expropriation.
+- Covenants that limit such behavior only become binding if the accounting system recognizes the deterioration of a company's economic position.
+- Timely loss recognition is expected to improve the efficiency of covenants because covenants are more likely to be become binding.
+
+- Nikolaev (2010) finds that firms whose public debt contracts employ more covenants exhibit timelier recognition of economic losses.
+- Christensen & Nikolaev (2012) find that the use of P-covenants relative to C-covenants increases as borrowers become more ﬁnancially constrained.
+
+---
+#### Research Opportunities:
+- crowfundings and other non-traditional financing contracts (crypto).
+- bank and trade credit, leases.
+#### Suggested recent studies:
+Cascino, Correia, & Tamayo (2019). Does Consumer Protection Enhance Disclosure Credibility in Reward Crowdfunding? __Journal of Accounting Research__, 57(5), 1247–1302. https://doi.org/10.1111/1475-679X.12289
+
+Bourveau, De George, Ellahie, & Macciocchi (2022). The Role of Disclosure and Information Intermediaries in an Unregulated Capital Market: Evidence from Initial Coin Offerings. __Journal of Accounting Research__, 60(1), 129–167. https://doi.org/10.1111/1475-679X.12404
+
 
 ---
 # 5) Stakeholder: Employees
 ## (a) Accounting and Labor Negotiation
-The respective initial labor contracts define the fraction of economic rents distributed to labor. However, some firms have regular renegotiation: collective agreements or labor union contract negotiation (Liberty & Zimmerman, 1986).
+The initial labor contracts define the fraction of economic rents distributed to labor. However, some firms have regular renegotiation: collective agreements or labor union contract negotiation (Liberty & Zimmerman, 1986).
 
 - Managers are predicted to make opportunistic income-decreasing reporting choices to limit the expectations of labor representatives.
 ---
@@ -423,6 +447,7 @@ The respective initial labor contracts define the fraction of economic rents dis
 - The objective is establishing the company's "ability to pay" (Goggans, 1964).
 
 ---
+
 Notice that labor representatives are considered external stakeholders from a financial reporting perspective; they do not have the same information set as the manager.
 - they are not able to re-compute the financial statements considering alternative accounting choices.
 - their individual information set relates to their specific job position.
@@ -441,7 +466,8 @@ Not surprisingly, they usually rely on external sources of information (e.g., pe
 
 ---
 ## (b) Accounting and Current Employee Job Search
-Recently, scholars started to study whether rank-and-file employees used financial accounting information to evaluate their job prospects.
+
+The literature have started to focus on  rank-and-file employees'use of financial accounting information to evaluate their job prospects.
 
 deHAAN et al. (2023) evaluate whether current employees are more active in job search after Earnings Announcements (EA).
 - EAs provide information about firms’ financial conditions, which can affect future job security, raises, promotions, and fulfillment of implicit commitments.
@@ -449,6 +475,18 @@ deHAAN et al. (2023) evaluate whether current employees are more active in job s
 
 - Using weekly counts of Glassdoor reviews by current employees as a proxy for new job searchers, they find significant increases in reviews around EAs.
 
+---
+#### Research Opportunities:
+- disclosing strategies aiming the labor market of rank-and-file employees.
+  - best place to work awards, inclusivity and diversity reports.
+
+#### Suggested recent studies:
+deHAAN, Li,, & Zhou (2023). Financial Reporting and Employee Job Search. __Journal of Accounting Research__, 61(2), 571–617. https://doi.org/10.1111/1475-679X.12469
+
+Dube, & Zhu ,(2021). The Disciplinary Effect of Social Media: Evidence from Firms’ Responses to Glassdoor Reviews. __Journal of Accounting Research__, 59(5), 1783–1825. https://doi.org/10.1111/1475-679X.12393
+
+
+Choi, Pacelli,  Rennekamp, & Tomar (2023). Do Jobseekers Value Diversity Information? Evidence from a Field Experiment and Human Capital Disclosures. __Journal of Accounting Research__, 61(3), 695–735. https://doi.org/10.1111/1475-679X.12474
 
 ---
 # 6) Stakeholder: Government
@@ -468,42 +506,54 @@ By contrast, increased tax enforcement reduces the amount of private benefits th
 
 Book-tax differences are driven by a wide variety of factors.
 
-the two systems have very different objectives and these different objectives lead to different rules.
+The two systems have very different objectives, leading to different rules.
 
-a. useful information for decision-makers
+Tax rules are politically driven: raise revenues, discourage certain activities, encourage others, and redistribute wealth. Location of earnings matters. 
 
-b. politically drive: raise revenues, discourage certain activities, encourage others, and redistribute wealth. Location of earnings matters. 
+---
+!["google"](/img/image_google.png)
+
+------
+!["starbucks"](/img/image_starbucks.png)
 
 --- 
-The use of public financial reports provides additional data to tax authorities that can be used in tax enforcement to complement the agency’s private information.
+Public financial reports provides additional data to tax authorities that can be used in tax enforcement to complement tax filings.
 
-**Is it true?**
 
-Recent research analyzes this by analyzing the downloads of firms’ financial reports from EDGAR and allows us to observe the timing, type, frequency, and breadth of the IRS’s retrieval of these reports.
+- Recent research analyzes the downloads of firms’ financial reports from EDGAR and allows us to observe the timing, type, frequency, and breadth of the IRS’s retrieval of these reports.
 
-Bozanic et al. (2017) find that the use of public information increased following the implementation of FIN 48, which required firms to disclose tax reserve information.
+- Bozanic et al. (2017) find that the use of public information increased following the implementation of FIN 48, which required firms to disclose tax reserve information.
 
-Fox & Wilson (2023) financial restatements as potentially useful signals to the IRS of poor information quality or management integrity. They find that restatements are associated with a significant increase in the likelihood of an IRS audit.
+- Fox & Wilson (2023) evidence suggest that financial restatements as potentially useful signals to the IRS of poor information quality or management integrity. They find that restatements are associated with a significant increase in the likelihood of an IRS audit.
 
 ---
 # 7) Evidence of Peer reporting as the external governance mechanism
-**Labor Negotiations**
-Aobdiaa & Cheng (2018) analyze whether non-unionized firms have an incentive to disclose more information when their unionized rivals are engaged in labor renegotiations; that is, to weaken them. They find that non-unionized firms disclose more information and more good news when renegotiations are ongoing.
+
 
 **CEO compensation**
 
-DeFond and Park (1999) and Parrino (1997), examining CEO turnover probabilities, posit that in more competitive industries, peer group comparisons are more readily available, creating opportunities for more precise performance comparisons.
-
-Ortiz et al. (2024): peer reporting fosters turnover and boosts careers of overperforming CEOs.
-
----
-
-**Shareholder rights and activism**
-Ortiz et al. (2023): peer reporting fosters the acquisition of under-performing firms.
+ Ortiz et al. (2024) argue that industry reporting reduces information asymetries in the CEOs labor market. Consistently, they find that industry reporting increases top executive replacements and:
+ - boosts the careers of overperforming CEOs.
+ - increases the probability of forced removal of underperforming CEOs.
+ - effect is pronounced in industries with meritocratic-based evaluation (as opposed to loyalty-based).
+  <!--DeFond and Park (1999) and Parrino (1997), examining CEO turnover probabilities, posit that in more competitive industries, peer group comparisons are more readily available, creating opportunities for more precise performance comparisons.-->
 
 ---
-# Questions :question:
-Check my website for an updated version of this presentation:
+**Shareholder and the market of corporate control**
 
-:point_right: [https://www.marceloortizm.com/](https://www.marceloortizm.com)
+Ortiz et al. (2023) find that industry reporting facilitates the screening and foster the acquisitions of hidden champeons.
 
+**Labor Negotiations**
+
+Aobdiaa & Cheng (2018) argue and find that non-unionized firms have an incentive to disclose more information when their unionized rivals are engaged in labor renegotiations; that is, to weaken them.
+
+
+---
+<!-- _class: final-slide -->
+
+![bg right:60%](img/front_image.png)
+# Thank you!
+
+Updated versions: 
+
+Check it on my [Github](http://www.marceloortizm.com).
