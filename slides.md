@@ -10,7 +10,7 @@ math: mathjax
 
 ---
 
-# Accounting in Corporate Governance: A Contractual View
+# Financial Accounting in Corporate Governance: A Contractual View
 
 <br><br><br>
 
@@ -27,7 +27,11 @@ UPF-BSM
 ---
 # Summary
 
+<<<<<<< Updated upstream
 **How is financial accounting information used to detect and aliviate governance conflicts?**
+=======
+**What is the role of financial accounting information in corporate governance?**
+>>>>>>> Stashed changes
 
 We will review different streams of literature on the role of financial accounting information in corporate governance.
 
