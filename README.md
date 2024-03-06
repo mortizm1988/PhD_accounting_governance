@@ -1,4 +1,4 @@
-# How is financial accounting information used to detect and mitigate governance conflicts?
+# Financial Accounting in Corporate Governance: A Contractual View
 
 We will review different streams of literature on the role of financial accounting information in corporate governance.
 
