@@ -1,13 +1,13 @@
 # Financial Accounting in Corporate Governance: A Contractual View
 
 
-Our goal is to provide a comprehensive and unified view of how financial accounting items are used to:
+The goal of this course is to provide a comprehensive and unified view of how financial accounting is used to:
 
 (1) define contractual relationships between corporate stakeholders and the firm. 
 
 (2) monitor the fulfillment of the contractual obligations.
 
-We also discuss current research areas.
+The course also discusses current research areas.
 
 
 # Course structure
