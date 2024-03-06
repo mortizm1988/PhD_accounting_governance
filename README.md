@@ -1,6 +1,5 @@
 # Financial Accounting in Corporate Governance: A Contractual View
 
-We will review different streams of literature on the role of financial accounting information in corporate governance.
 
 Our goal is to provide a comprehensive and unified view of how financial accounting items are used to:
 
@@ -8,10 +7,13 @@ Our goal is to provide a comprehensive and unified view of how financial account
 
 (2) monitor the fulfillment of the contractual obligations.
 
+We also discuss current research areas.
+
+The course is ideal for economics, finance, or accounting students with basic knowledge of microeconomics and contract theory.
 
 # Course structure
 
-Chapter 1 starts by explaining formal and informal contracts, followed by accounting choice and disclosure processing costs.
+Chapter 1 explains formal and informal contracts. The emphasis is on **accounting choice** and **disclosure processing costs**.
 
 ![alt text](img/diag_0.png) 
 
