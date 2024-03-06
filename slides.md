@@ -25,13 +25,10 @@ UPF-BSM
 ![bg left:50%](img/front_image.png)
 
 ---
+
 # Summary
 
-<<<<<<< Updated upstream
-**How is financial accounting information used to detect and aliviate governance conflicts?**
-=======
 **What is the role of financial accounting information in corporate governance?**
->>>>>>> Stashed changes
 
 We will review different streams of literature on the role of financial accounting information in corporate governance.
 
@@ -44,14 +41,14 @@ Our goal is to provide a comprehensive and unified view on how financial account
 
 <!-- The objectives of this review are to provide an analytical primer for thinking about how disclosure processing costs affect equity markets, organize and critique existing empirical work, highlight links in seemingly disparate literatures, and provide guidance for future research.-->
 ---
+
 ![alt text](img/diag_1.png)
 
 ---
 We will not cover:
-- financial accounting & capital markets.
 - financial accounting regulation.
-- managerial accounting. 
-
+- financial accounting information and capital markets.
+- managerial accounting.  
 References available in this Zotero Public Group: [Corporate Governance and Accounting](https://www.zotero.org/groups/5367141/accounting_governance)
 
 ---
@@ -156,10 +153,9 @@ Source: Watts & Zimmerman (1990)
 <!-- maybe work further here on my idea that some sets can be considered "conservatism" and others "fair value accounting" and so on... -->
 
 ---
-Not all reporting choices are accepted, and managers have discretion over a subset of choices called "the accepted set"  (Watts & Zimmerman, 1990).
+Managers have discretion over a subset of choices called "the accepted set"  (Watts & Zimmerman, 1990).
 
-This accepted set varies considerably across industries, as the nature of their business
-converts some choices into more or less informative signals about the firm's performance to other stakeholders.
+This accepted set varies considerably across industries, as the nature of their business converts some choices into more or less informative signals about the firm's performance to other stakeholders.
 
 ---
 The accounting choice should follow the most fundamental accounting principles:
@@ -184,12 +180,12 @@ For example, the matching principle allows for different methods of depreciation
 -->
 <!-- history of principles: https://www.sechistorical.org/museum/galleries/rca/rca02b-status-gaap.php -->
 ---
-Once the manager has decided on a set of accounting choices, the economic events ("transactions" ) are processed accordingly in the accounting information system.
+Once the manager has made the accounting choices, the economic events ("transactions" ) are processed accordingly in the accounting information system.
 
 Then, the outputs, i.e., the financial statements or earnings announcements, are publicly disclosed.
 
 Stakeholders face severe challenges in undoing the manager's accounting choices.
-- even though reporting regulation may require informing about accounting choices and their changes, other stakeholders do not have the same information set as the manager for re-computing the financial statements assuming alternative choices.
+- even though reporting regulation requires informing about accounting choices and their changes, other stakeholders do not have the same initial information set as the manager for re-computing the financial statements assuming alternative choices.
 
 
 ---
@@ -219,7 +215,7 @@ Not all disclosures are equally costly to process.
   -  Example on two papers with the same RQ.
   -   obfuscation or transparency? 
 ---
-The presence of processing costs means that disclosures are not public information as traditionally deﬁned but are instead a form of private information.
+The presence of processing costs means that disclosures are not public information as traditionally defined but are instead a form of private information.
 
 Analytical theory has typically focused on capital markets.
 - classic rational models: Grossman & Stiglitz (1980), Verrecchia (1982).
@@ -263,7 +259,6 @@ Some stakeholders may be more aware of other sources of information that are les
 #### Suggested recent studies
 - Huang, Li, & Markov (2020). What Do Employees Know? Evidence from a Social Media Platform. __The Accounting Review__ , 95 (2): 199–226. https://doi.org/10.2308/accr-52519
 - Dube, S. & Zhu, C. (2021), The Disciplinary Effect of Social Media: Evidence from Firms' Responses to Glassdoor Reviews. __Journal of Accounting Research__, 59: 1783-1825. https://doi.org/10.1111/1475-679X.12393
--  Ortiz, Peter, Urzúa, & Volpin (2023). Mandatory Financial Disclosure and M&A Activity, __The Review of Financial Studies__, 36(12):4788–4823, https://doi.org/10.1093/rfs/hhad052
 
 ---
 # 2) Stakeholder: Executives
@@ -300,7 +295,7 @@ Does this mean that accounting information has become less important for CEOs' c
 ## (b) Accounting  and Executive Turnover
 Compensation is not the only incentive for managers: threat of dismissal.
 
-Several studies have found a negative relationship between accounting performance and CEO turnover  (Weisbach (1988); Murphy & Zimmerman (1993), Lehn & Makhija (1997))
+Several studies have found a negative relationship between accounting performance and CEO turnover (Weisbach (1988); Murphy & Zimmerman (1993), Lehn & Makhija (1997))
 
 - Weisbach finds that accounting performance appears to be more important than stock price performance in explaining turnover. 
 - Murphy and Zimmerman find a significant inverse relation between both performance measures and turnover.
@@ -318,13 +313,13 @@ Several studies have found a negative relationship between accounting performanc
 # 3) Stakeholder: Shareholder 
 Shareholders are the residual claimants of the firm's profit, and they have the right to vote in the general assembly of shareholders.
 
-The general assembly of shareholders has the power to appoint and dismiss top management and to approve the financial reports.
+The general assembly has the power to appoint and dismiss top management and to approve the financial reports.
 - But, if all shareholders are dispersed and diversified, they may not have the incentives to monitor the firm, even if the information is perfect and available at no cost.
 - Admati, Pfleiderer, & Zechner (1994)
     - Ownership structure affects the payoffs of firms since it affects optimal monitoring efforts.
 
 ---
-Mechannisms:
+Evidence/Theory of accounting information moderating conflicts with shareholders:
 - Proxy battles 
 - Proposal at shareholder meetings 
 - Litigation 
@@ -424,7 +419,7 @@ Recent approaches look at **set of accounting choices**, such as conservative ac
 - Timely loss recognition is expected to improve the efficiency of covenants because covenants are more likely to be become binding.
 
 - Nikolaev (2010) finds that firms whose public debt contracts employ more covenants exhibit timelier recognition of economic losses.
-- Christensen & Nikolaev (2012) find that the use of P-covenants relative to C-covenants increases as borrowers become more ﬁnancially constrained.
+- Christensen & Nikolaev (2012) find that the use of P-covenants relative to C-covenants increases as borrowers become more financially constrained.
 
 ---
 #### Research Opportunities:
@@ -489,7 +484,6 @@ deHAAN, Li,, & Zhou (2023). Financial Reporting and Employee Job Search. __Journ
 
 Dube, & Zhu ,(2021). The Disciplinary Effect of Social Media: Evidence from Firms’ Responses to Glassdoor Reviews. __Journal of Accounting Research__, 59(5), 1783–1825. https://doi.org/10.1111/1475-679X.12393
 
-
 Choi, Pacelli,  Rennekamp, & Tomar (2023). Do Jobseekers Value Diversity Information? Evidence from a Field Experiment and Human Capital Disclosures. __Journal of Accounting Research__, 61(3), 695–735. https://doi.org/10.1111/1475-679X.12474
 
 ---
@@ -515,10 +509,10 @@ The two systems have very different objectives, leading to different rules.
 Tax rules are politically driven: raise revenues, discourage certain activities, encourage others, and redistribute wealth. Location of earnings matters. 
 
 ---
-!["google"](/img/image_google.png)
+!["google"](img/image_google.png)
 
 ------
-!["starbucks"](/img/image_starbucks.png)
+!["starbucks"](img/image_starbucks.png)
 
 --- 
 Public financial reports provides additional data to tax authorities that can be used in tax enforcement to complement tax filings.
@@ -534,7 +528,7 @@ Public financial reports provides additional data to tax authorities that can be
 # 7) Evidence of Peer reporting as the external governance mechanism
 
 
-**CEO compensation**
+**CEO performance evaluation and labor market**
 
  Ortiz et al. (2024) argue that industry reporting reduces information asymetries in the CEOs labor market. Consistently, they find that industry reporting increases top executive replacements and:
  - boosts the careers of overperforming CEOs.
@@ -558,6 +552,6 @@ Aobdiaa & Cheng (2018) argue and find that non-unionized firms have an incentive
 ![bg right:60%](img/front_image.png)
 # Thank you!
 
-Updated versions: 
+Updated version: 
 
 Check it on my [Github](http://www.marceloortizm.com).
