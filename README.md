@@ -12,7 +12,7 @@ We also discuss current research areas.
 
 # Course structure
 
-Chapter 1 explains formal and informal contracts. The emphasis is on **accounting choice** and **disclosure processing costs**.
+Chapter 1 explains formal and informal contracts. The emphasis is on **accounting and reporting choices** and **disclosure processing costs**.
 
 ![alt text](img/diag_0.png) 
 
