@@ -9,7 +9,6 @@ Our goal is to provide a comprehensive and unified view of how financial account
 
 We also discuss current research areas.
 
-The course is ideal for economics, finance, or accounting students with basic knowledge of microeconomics and contract theory.
 
 # Course structure
 
@@ -27,7 +26,9 @@ Finally, we discuss the role of peers' financial disclosure as an external gover
 This course does not cover:
 - financial accounting & capital markets.
 - financial accounting regulation.
-- managerial accounting. 
+- managerial accounting.
+
+**Audience**: the course is ideal for economics, finance, or accounting PhD students with basic knowledge of microeconomics and contract theory.
   
-References available in this Zotero Public Group: [Corporate Governance and Accounting](https://www.zotero.org/groups/5367141/accounting_governance)
+**References**: available in this Zotero Public Group: [Corporate Governance and Accounting](https://www.zotero.org/groups/5367141/accounting_governance)
 
