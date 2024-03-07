@@ -32,9 +32,9 @@ UPF-BSM
 
 We will review different streams of literature on the role of financial accounting information in corporate governance.
 
-Our goal is to provide a comprehensive and unified view on how financial accounting information is used to:
+Our goal is to provide a **comprehensive and unified view** on how financial accounting information is used to:
 
-(1) define contractual relationships between corporate stakeholders and the firm. 
+(1) define contractual relationships between corporate stakeholders. 
 
 (2) monitor the fulfillment of the contractual obligations.
 
@@ -49,6 +49,7 @@ We will not cover:
 - financial accounting regulation.
 - financial accounting information and capital markets.
 - managerial accounting.  
+
 References available in this Zotero Public Group: [Corporate Governance and Accounting](https://www.zotero.org/groups/5367141/accounting_governance)
 
 ---
@@ -60,10 +61,12 @@ We start by understanding a corporation as a nexus of contracts designed to mini
 
 Those contracts govern how costs and rewards are allocated among stakeholders (Jensen & Meckling, 1977).
 
-The literature has branched into various sub-disciplines to accommodate the diverse interests and contractual obligations for each type of corporate stakeholder (Bechuk & Weisbach, 2010).
+The literature has branched into various sub-disciplines to accommodate the diverse interests and contractual obligations for each type of stakeholder (Bechuk & Weisbach, 2010).
 
 ---
 Types of contracts: formal and informal.
+
+Explicit and implicit clauses.
 
 Contracting process: 
   1. establish the terms of the contract. 
@@ -71,10 +74,12 @@ Contracting process:
 
 What information? 
 
-- Ideally, economic profits: drivers, type, and distribution across stakeholders.
+- Ideally, economic income: total value created by the company during a specific period, net of the costs of all inputs used in the production process.
+  - Not only operating and financial income, but also unrealized gain and losses.
+  - Income Drivers (luck? talent? segment?), type (transitory?), and distribution across stakeholders.
 
-Accounting vs Economic profits:
-- Accounting profits act as **surrogates** for economic profits as long as less costly alternative sources do not provide similar or better information on rents.
+Accounting vs Economic income:
+- Accounting income act as **surrogates** for economic income as long as less costly alternative sources do not provide similar or better information on rents.
 
 ---
 ## Definition of  Financial Accounting Information
@@ -105,7 +110,7 @@ Verifiability: Verifiability helps assure users that the information presented i
 
 <!-- see discussion in chap 2 of Armstrong et al. (2010) -->
 ---
-# The Manager and the Reporting Choice
+# The Manager and the Accounting Choice
 
 Discussion: you are a manager and must decide how to report the following transactions. What would you do?
 - A significant sale transaction such that the customer will pay in 6 months and the product will be delivered in 2 months (e.g., tailor-made furniture). Credit risk is high.
@@ -157,7 +162,13 @@ Managers have discretion over a subset of choices called "the accepted set"  (Wa
 
 This accepted set varies considerably across industries, as the nature of their business converts some choices into more or less informative signals about the firm's performance to other stakeholders.
 
+**Important**: The accepted sets are not specific enough to avoid managerial discretion regarding accounting choices. 
+
+For example, the matching principle allows for different methods of depreciation. Similarly, the historical cost principle allows for different methods of inventory valuation.
+
 ---
+
+<!--
 The accounting choice should follow the most fundamental accounting principles:
 1. Accrual Principle
 2. Matching Principle
@@ -165,12 +176,7 @@ The accounting choice should follow the most fundamental accounting principles:
 4. Historical Cost Principle
 5. Conservatism Principle
 6. Full Disclosure Principle
-
-**Important**: The accounting principles are not specific enough to avoid managerial discretion regarding accounting choices. 
-
-For example, the matching principle allows for different methods of depreciation. Similarly, the historical cost principle allows for different methods of inventory valuation.
-
-<!--
+7. 
 - **Accrual Principle**: Recognizes economic events regardless of when cash transactions occur. This principle ensures that financial statements reflect all the revenues earned and expenses incurred during the period.
 - **Matching Principle**: Directs that expenses be matched with the revenues they help to generate, ensuring that income statements reflect the correct net income for the period.
 - **Consistency principle**:  Stipulates that companies should consistently use the same accounting methods and principles from period to period, allowing for comparability across periods.
@@ -189,7 +195,7 @@ Stakeholders face severe challenges in undoing the manager's accounting choices.
 
 
 ---
-# The Stakeholders and the Cost of Processing the Financial Accounting Information
+# The Stakeholders and the Cost of Processing the Financial Disclosures
 
 Learning from disclosures is an active economic choice:
 - trade-off between the cost (benefit) of processing (learning from) the information.
@@ -206,14 +212,17 @@ Source: Blankespoor et al. (2019)
 4. Opportunity costs: resources could be allocated to processing other information or other activities.
    - Budget and capital constraints.
 ---
+Not all stakeholders have the same level of sophistication in processing the disclosures.
+  - shareholder vs rank-and-file employee.
+  
 Not all disclosures are equally costly to process.
 - more complex business models generate disclosures that are more costly to process (Hoitash & Hoitash, 2018)
   - Coca Cola vs SpaceX
 - similarly, complex organizational structures also increase the cost of processing the disclosure (Cohen & Lou, 2012).
   - conglomerates vs single business firms.
 - disclosure design choice also matters.
-  -  Example on two papers with the same RQ.
-  -   obfuscation or transparency? 
+  -  think on two academic papers with the same research question: one clearly written and with nicely formated tables and the other not.
+  -  too much data/plots: obfuscation or transparency? 
 ---
 The presence of processing costs means that disclosures are not public information as traditionally defined but are instead a form of private information.
 
@@ -227,11 +236,13 @@ The evidence is overwhelming in showing that even the most sophisticated investo
 ---
 #### Research opportunities
 
-- Accounting choice: opportunistic or altruistic?
-   -  dissecting benevolent and agency-driven earnings management.
+- Accounting choice: 
+   - theory: focus on the multidimensional nature of accounting choices.
+   - empirics: dissecting benevolent and agency-driven accounting decisions.
   
 - As accounting standards and regulations have become more complex, real earnings management has become more prevalent (Bertomeu et al., 2020).
-  - What are the macroeconomic consequences of this shift through real earnings management?
+  - what are the macroeconomic consequences of this shift through real earnings management?
+  - accounting rigifity is not always a good thing (Dye & Verrechia, 1995).
 
 ---
 #### Suggested recent studies
@@ -251,9 +262,9 @@ Some stakeholders may be more aware of other sources of information that are les
 
 #### Research Opportunities: 
 - peer reporting
-- peer litigation
+- litigation
 - social media 
-- corporate fake news
+
 
 ---
 #### Suggested recent studies
@@ -295,7 +306,7 @@ Does this mean that accounting information has become less important for CEOs' c
 ## (b) Accounting  and Executive Turnover
 Compensation is not the only incentive for managers: threat of dismissal.
 
-Several studies have found a negative relationship between accounting performance and CEO turnover (Weisbach (1988); Murphy & Zimmerman (1993), Lehn & Makhija (1997))
+Several studies have found a negative relationship between accounting performance and CEO turnover (Weisbach (1988); Murphy & Zimmerman (1993), Lehn & Makhija (1997)).
 
 - Weisbach finds that accounting performance appears to be more important than stock price performance in explaining turnover. 
 - Murphy and Zimmerman find a significant inverse relation between both performance measures and turnover.
@@ -304,7 +315,7 @@ Several studies have found a negative relationship between accounting performanc
 #### Research Opportunities: 
 - how to disentangle luck vs skill based on accounting information.
 - financial reporting and executive labor market
-- Roles behind accounting/reporting choices: Board, CEO, CFO, etc.
+- roles behind accounting/reporting choices: Board, CEO, CFO, Audit Committee, etc.
 #### Suggested recent studies:
 - Rhodes & Russomanno (2021). Executive Accountants and the Reliability of Financial Reporting. __Management Science__, 67:7, 4475-4504 https://doi.org/10.1287/mnsc.2020.3697
 -  Ma, Pan, & Stubben (2020) The Effect of Local Tournament Incentives on Firms' Performance, Risk-Taking Decisions, and Financial Reporting Decisions. __The Accounting Review__; 95 (2): 283–309. https://doi.org/10.2308/accr-52506
@@ -539,7 +550,7 @@ Public financial reports provides additional data to tax authorities that can be
 ---
 **Shareholder and the market of corporate control**
 
-Ortiz et al. (2023) find that industry reporting facilitates the screening and foster the acquisitions of hidden champeons.
+Ortiz et al. (2023) find that industry reporting facilitates the screening and evaluation of hidden/opacque targets.
 
 **Labor Negotiations**
 
