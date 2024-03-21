@@ -68,15 +68,13 @@ Types of contracts: formal and informal.
 
 Explicit and implicit clauses.
 
-Contracting process: 
-  1. establish the terms of the contract. 
-  2. monitor firm’s ability to satisfy the terms of contract.
+Contracting process: (1) establish the terms of the contract (2) monitor ability to satisfy the terms of contract.
 
-What information? 
+**What information?** 
 
 - Ideally, economic income: total value created by the company during a specific period, net of the costs of all inputs used in the production process.
-  - Not only operating and financial income, but also unrealized gain and losses.
-  - Income Drivers (luck? talent? segment?), type (transitory?), and distribution across stakeholders.
+<!--  - Not only operating and financial income, but also unrealized gain and losses.-->
+  - Income drivers (luck? talent? segment?), type (transitory?), and distribution across stakeholders.
 
 Accounting vs Economic income:
 - Accounting income act as **surrogates** for economic income as long as less costly alternative sources do not provide similar or better information on rents.
@@ -185,7 +183,7 @@ The accounting choice should follow the most fundamental accounting principles:
 - **Full Disclosure Principle**: Requires that financial statements provide all necessary information to understand a company’s financial condition and performance, ensuring transparency and aiding decision-making
 -->
 <!-- history of principles: https://www.sechistorical.org/museum/galleries/rca/rca02b-status-gaap.php -->
----
+
 Once the manager has made the accounting choices, the economic events ("transactions" ) are processed accordingly in the accounting information system.
 
 Then, the outputs, i.e., the financial statements or earnings announcements, are publicly disclosed.
